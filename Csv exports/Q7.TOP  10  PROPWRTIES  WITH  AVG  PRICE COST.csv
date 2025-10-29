@@ -1,0 +1,11 @@
+property_type,location,price,square_feet,price_per_sqft
+Townhouse,"Los Angeles",1892061,501,3776.56890000
+Townhouse,"New York",1904527,533,3573.22140000
+Apartment,"New York",1668743,597,2795.21440000
+Condo,Dallas,1687654,626,2695.93290000
+Condo,"New York",1974890,762,2591.71920000
+Townhouse,"New York",1828325,727,2514.89000000
+Condo,Boston,1881343,756,2488.54890000
+Townhouse,Houston,1677426,695,2413.56260000
+Apartment,"San Francisco",1709716,726,2354.98070000
+Townhouse,Chicago,1498810,642,2334.59500000
